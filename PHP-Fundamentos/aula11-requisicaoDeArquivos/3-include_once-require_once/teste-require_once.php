@@ -79,7 +79,7 @@ esse impacto é insignificante.
 Em resumo, require_once é uma ferramenta valiosa em PHP
 para garantir que arquivos sejam incluídos apenas uma vez,
 prevenindo erros e melhorando a organização do seu código.*/
-require_once ('index.php');
+require_once('index.php');
 
 ?>
 

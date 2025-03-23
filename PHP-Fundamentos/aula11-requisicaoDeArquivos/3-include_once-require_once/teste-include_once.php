@@ -66,7 +66,7 @@ na maioria dos casos, esse impacto é insignificante.
 Em resumo, include_once é uma ferramenta valiosa em PHP para
 garantir que arquivos sejam incluídos apenas uma vez,
 prevenindo erros e melhorando a organização do seu código.*/
-include_once ('index.php');
+include_once('index.php');
 
 ?>
 

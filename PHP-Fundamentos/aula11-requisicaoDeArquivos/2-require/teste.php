@@ -59,7 +59,7 @@ Em resumo, require é uma ferramenta essencial em
 PHP para incluir arquivos críticos, garantindo que seu
 script dependa de componentes necessários para funcionar corretamente.*/
 
-require ('index.php');
+require('index.php');
 ?>
 <p>Depois o require</p>
 
