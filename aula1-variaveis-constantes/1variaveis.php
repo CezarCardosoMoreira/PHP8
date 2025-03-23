@@ -1,6 +1,5 @@
 <?php
 
-
 //Variaveis:
 
 $nome = "cezar";
