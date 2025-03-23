@@ -2,6 +2,7 @@
 
 //Variaveis:
 
+
 $nome = "cezar";
 $idade = 20;
 
