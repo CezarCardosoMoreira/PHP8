@@ -9,7 +9,7 @@ echo $nome . " tem " . $idade . " anos";
 echo "Meu nome é: $nome";
 echo "Minha idade è: $idade";
 
-//Constanyes:
+//Constantes:
 define("NOME", "cezar");
 define("IDADE", 22);
 ?>
